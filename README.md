@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💼 I’m currently working at Transmira Inc. developing the OmniscapeXR platforms as a Fullstack Software Developer.
-- 🤝 I’m looking to collaborate on open source projects that have nothing or little to do with web development
+- 🤝 I’m looking to collaborate on open source projects
 - 📫 How to reach me: 
   - discord: [Dogmeat#5123](https://discord.com/users/882024675968950353)
   - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
