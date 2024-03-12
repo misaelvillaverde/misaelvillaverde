@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 I’m a Software Engineer at Transmira Inc. Main contributor of the OmniscapeXR API Services.
+- 💼 Software Developer at Transmira.
 - 📫 How to reach me: 
-  - discord: [Dogmeat#5123](https://discord.com/users/882024675968950353)
+  - discord: bartolo.ebenezer
   - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
 
 <!-- 
