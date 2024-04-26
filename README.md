@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 Software Developer at Transmira.
+- 🌊 Software at Transmira.
 - 📫 How to reach me: 
   - discord: bartolo.ebenezer
   - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
