@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌊 Software at Transmira.
+- 🚪 Building Rumis.
 - 📫 How to reach me: 
-  - discord: bartolo.ebenezer
+  - discord: babywonton.
   - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
 
 <!-- 
