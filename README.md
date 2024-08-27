@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚪 Building Rumis.
+- 🚪 Building [Rumis](https://rumis.app?ref=github-misael).
 - 📫 How to reach me: 
   - discord: babywonton.
   - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
