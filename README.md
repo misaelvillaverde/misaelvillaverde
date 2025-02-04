@@ -1,4 +1,4 @@
-### 🗿 About me
+<!-- ### 🗿 About me -->
 
 <!--
 **misaelvillaverde/misaelvillaverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: none
 -->
 
-- 🚪 Building [Rumis](https://rumis.app?ref=github-misael).
-- 📫 How to reach me: 
-  - discord: babywonton.
-  - email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
+<!-- - 🚪 Building [Rumis](https://rumis.app?ref=github-misael). -->
+📫 How to reach me: 
+- discord: babywonton.
+- email: [misaelvilla10@gmail.com](mailto:misaelvilla10@gmail.com)
 
 <!-- 
 [Website](https://potifar.dev) • [Linkedin](https://www.linkedin.com/in/misael-villaverde/)
